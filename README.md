@@ -93,13 +93,13 @@ $ tree -L 2
 compile app demo
 ```
 cd app
-make p=AX630C_emmc_arm64_k419 isntall
+make p=AX630C_emmc_arm64_k419 install
 ```
 
 compile sample
 ```
 cd msp/sample
-make p=AX630C_emmc_arm64_k419 isntall
+make p=AX630C_emmc_arm64_k419 install
 ```
 
 the result 
